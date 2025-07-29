@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Plot",
+    "type": "Plot",
+    "price": 250000,
+    "location": "Pune",
+    "description": "A large plot of land available for development.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqgtsGNO_IfzYM6VPS8lNikw4JWE-gsEBjQ&s",
+    "coords": { "lat": 18.516726, "lng": 73.856255 }
+  },
+  {
+    "id": 2,
+    "name": "Shed",
+    "type": "Shed",
+    "price": 76000,
+    "location": "Bengaluru",
+    "description": "An industrial shed in a prime location.",
+    "image": "https://media.istockphoto.com/id/1396856251/photo/colonial-house.jpg?s=612x612&w=0&k=20&c=_tGiix_HTQkJj2piTsilMuVef9v2nUwEkSC9Alo89BM=",
+    "coords": { "lat": 12.971599, "lng": 77.594566 }
+  },
+  {
+    "id": 3,
+    "name": "Retail Store",
+    "type": "Retail",
+    "price": 150000,
+    "location": "Hyderabad",
+    "description": "A commercial retail space in city center.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuVj2I1RK7GLvbNFqfiZLwn3JgQkutBBYLA&s",
+    "coords": { "lat": 17.385044, "lng": 78.486671 }
+  },
+  {
+    "id": 4,
+    "name": "Plot",
+    "type": "Plot",
+    "price": 300000,
+    "location": "Chennai",
+    "description": "A spacious plot situated in a serene area.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2ho2O1g6Qtzd1vKVeAaPwsJiTjyzzi1xJQ&s",
+    "coords": { "lat": 13.08268, "lng": 80.270718 }
+  }
+]
