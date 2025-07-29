@@ -2,7 +2,8 @@
 
 A modern, responsive property listing application with dark mode support, advanced search, and interactive maps.
 
-![Demo Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![Demo Screenshot](<img width="1830" height="891" alt="image" src="https://github.com/user-attachments/assets/93e57971-ccb2-4ac9-b749-9eb5fc4be41e" />
+)
 *Light and Dark Mode Views*
 
 ## ✨ Features
@@ -29,7 +30,7 @@ A modern, responsive property listing application with dark mode support, advanc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/property-dashboard.git
+   git clone https://github.com/vikasyadavvvv/Property-Dashboard.git
    cd property-dashboard
    npm install
    npm run dev
