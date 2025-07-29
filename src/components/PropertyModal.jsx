@@ -24,20 +24,20 @@ export default function PropertyModal() {
       <div className="absolute inset-0 bg-black/50" onClick={() => setSelected(null)} />
       <div className="absolute inset-x-0 top-10 mx-auto w-[95%] max-w-3xl rounded-2xl border bg-white p-4 shadow-xl dark:bg-zinc-900 dark:border-zinc-800">
         <div className="flex items-start justify-between">
-          <h3 className="text-xl font-semibold">View Details</h3>
-          <button onClick={() => setSelected(null)} className="px-2 py-1 rounded border dark:border-zinc-700">✕</button>
+          <h3 className="text-xl font-semibold dark:text-white">View Details</h3>
+          <button onClick={() => setSelected(null)} className="px-2 py-1 rounded border dark:border-zinc-700 dark:text-white">✕</button>
         </div>
 
         <div className="mt-4 grid gap-4 md:grid-cols-[2fr,1fr]">
           <img src={selected.image} alt={selected.name} className="w-full h-56 object-cover rounded-lg" />
 
           <div>
-            <div className="font-semibold">{selected.name}</div>
+            <div className="font-semibold dark:text-white">{selected.name}</div>
             <div className="text-sm text-zinc-500 dark:text-zinc-400">
               {selected.type} · {selected.location}
             </div>
-            <div className="mt-1 font-semibold">{currency(selected.price)}</div>
-            <p className="mt-3 text-sm">{selected.description}</p>
+            <div className="mt-1 font-semibold dark:text-white">{currency(selected.price)}</div>
+            <p className="mt-3 text-sm dark:text-white">{selected.description}</p>
           </div>
         </div>
 
