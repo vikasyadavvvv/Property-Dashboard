@@ -2,7 +2,8 @@
 
 A modern, responsive property listing application with dark mode support, advanced search, and interactive maps.
 
-![Demo Screenshot](<img width="1830" height="891" alt="image" src="https://github.com/user-attachments/assets/93e57971-ccb2-4ac9-b749-9eb5fc4be41e" />
+![Demo Screenshot] <img width="1830" height="891" alt="image" src="https://github.com/user-attachments/assets/f3f2d151-5679-47ec-aedf-db1ac84ee6ac" />
+
 )
 *Light and Dark Mode Views*
 
