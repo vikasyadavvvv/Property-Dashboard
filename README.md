@@ -1,8 +1,36 @@
-# React + Vite
+# 🏠 Property Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive property listing application with dark mode support, advanced search, and interactive maps.
 
-Currently, two official plugins are available:
+![Demo Screenshot](https://i.imgur.com/your-screenshot-url.png)
+*Light and Dark Mode Views*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+
+### 🏘️ Property Management
+- Browse property listings with card-based UI
+- Filter by property type (Plot, Shed, Retail, etc.)
+- Search by name, location, or description
+- Add new properties via form
+
+### 🖥️ Interactive UI
+- Dark/Light mode toggle (persists across sessions)
+- Responsive design (mobile, tablet, desktop)
+- Modal popup for detailed property views
+- Google Maps integration with property coordinates
+
+### ⚡ Tech Highlights
+- React 18 with Vite for blazing fast builds
+- Tailwind CSS for utility-first styling
+- Context API for state management
+- Mock API for development
+
+## 🚀 Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/property-dashboard.git
+   cd property-dashboard
+   npm install
+   npm run dev
+   ```
